@@ -7,3 +7,7 @@ edition = "2021"
 
 [dependencies]
 yew = "0.19.3"
+robot_sweet_shop = {path="../robot_sweet_shop"}
+wasm-bindgen-futures = "*"
+reqwasm = "*"
+futures ="*"
